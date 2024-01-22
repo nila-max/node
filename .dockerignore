@@ -3,4 +3,4 @@ package.json
 yarn.lock
 .github/
 .gitignore
-dist/**
+dist/*=123456789
